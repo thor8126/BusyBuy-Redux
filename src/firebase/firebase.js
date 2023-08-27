@@ -12,12 +12,13 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDLBRjbSaloNktGnx9Rl3x9ee6tq5Phtrg",
-  authDomain: "busybuyredux.firebaseapp.com",
-  projectId: "busybuyredux",
-  storageBucket: "busybuyredux.appspot.com",
-  messagingSenderId: "907454684794",
-  appId: "1:907454684794:web:dd0d6bc7225e285e3ea5c3"
+  apiKey: "AIzaSyDbHrxkN2lquFeBivT2FrTerbUzmdrSWmg",
+  authDomain: "buybusy-12d14.firebaseapp.com",
+  projectId: "buybusy-12d14",
+  storageBucket: "buybusy-12d14.appspot.com",
+  messagingSenderId: "577621398470",
+  appId: "1:577621398470:web:788a345875feaea7fc98c7",
+  measurementId: "G-FPT8MDB07B",
 };
 
 // Initialize Firebase
